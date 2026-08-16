@@ -9,7 +9,7 @@ import Interests from './components/Interests.jsx'
 import Resume from './components/Resume.jsx'
 import Contact from './components/Contact.jsx'
 import Footer from './components/Footer.jsx'
-
+import { Analytics } from '@vercel/analytics/react';
 export default function App() {
   return (
     <div className="min-h-screen bg-midnight-950">
@@ -24,6 +24,7 @@ export default function App() {
         <Interests />
         <Resume />
         <Contact />
+        <Analytics />
       </main>
       <Footer />
     </div>
