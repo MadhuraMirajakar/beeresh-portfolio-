@@ -9,7 +9,7 @@ function ProfilePhoto() {
       <div className="relative h-28 w-28 sm:h-32 sm:w-32 rounded-full p-[3px] bg-gradient-to-br from-cyan-accent to-indigo-accent">
         <div className="h-full w-full rounded-full overflow-hidden bg-charcoal-900 border-2 border-midnight-950">
           <img
-            src="/profile/photo.jpg"
+            src="/profile/photo.png"
             alt="Beeresh Muragannavar"
             className="h-full w-full object-cover"
             onError={(e) => {
