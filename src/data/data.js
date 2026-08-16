@@ -5,8 +5,8 @@ export const profile = {
     'Passionate Computer Science Engineering student with hands-on experience in C++, Python, web development, and AI/ML. I enjoy building practical AI-driven solutions and solving real-world problems through technology.',
   email: 'beereshmuragannavar2005@gmail.com',
   phone: '9741207665',
-  github: 'https://github.com/Beeresh0l',
-  linkedin: 'https://www.linkedin.com/in/beereshmuragannavar',
+  github: 'https://github.com/Beeresh01/',
+  linkedin: 'https://www.linkedin.com/in/beeresh-muragannavar?utm_source=share_via&utm_content=profile&utm_medium=member_android',
   resumeUrl: '/resume/Beeresh_Muragannavar_Resume.pdf',
 }
 
